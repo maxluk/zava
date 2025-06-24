@@ -28,7 +28,7 @@ END $$;
 -- Load unit test procedures
 \echo ''
 \echo 'Loading unit test procedures...'
-\i unit_tests_simple.sql
+\i unit_tests.sql
 
 -- Run all tests
 \echo ''
